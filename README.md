@@ -48,6 +48,5 @@ As notas podem ser exportadas como um arquivo CSV, contendo ID, conteúdo e esta
 
 ## Como utilizar
 
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/bloco-de-notas.git
+1. Acesse o link:
+  https://bloco-de-notas-blush.vercel.app/
