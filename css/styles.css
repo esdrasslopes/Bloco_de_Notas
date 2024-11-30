@@ -213,9 +213,10 @@ header {
         width: 100%;
         gap: 1.2rem;    
     }
-   .note > i{
+ .note .bi-x-lg,
+ .note .bi-file-earmark-plus{
     opacity: 1;
-  }
+ }
 }
 
 @media(max-width: 450px){
